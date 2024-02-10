@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-container {
+  border: 2px #dcdcdc solid;
+  margin: 50px;
+}
+
+.home-bg {
+  text-align: center;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+.bg-container1 {
+  border: 2px #000000 solid;
+  margin: 50px;
+  background-color: #000000;
+  color: #ffffff;
+}

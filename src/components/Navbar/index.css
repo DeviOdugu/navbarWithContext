@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.nav-bg {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border: 2px #dcdcdc solid;
+  color: #000000;
+}
+
+.logo {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.list {
+  display: flex;
+  list-style-type: none;
+}
+
+.home {
+  padding-right: 20px;
+  color: #000000;
+}
+
+.about {
+  color: #000000;
+}
+
+.click-button {
+  border: none;
+  background-color: #ffffff;
+}
+
+.nav-bg1 {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  background-color: #333333;
+  /* border: 2px #dcdcdc solid; */
+  color: #ffffff;
+}
+
+.home1 {
+  padding-right: 20px;
+  color: #ffffff;
+}
+
+.about1 {
+  color: #ffffff;
+}
+
+.click-button1 {
+  border: none;
+  background-color: #333333;
+}

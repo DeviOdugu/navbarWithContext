@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.not-found-bg {
+  border: 2px #dcdcdc solid;
+  margin: 50px;
+  text-align: center;
+}
+
+.not-found-bg1 {
+  border: 2px #000000 solid;
+  margin: 50px;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
